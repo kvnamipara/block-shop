@@ -7,7 +7,7 @@ Team Name - The First Man
 Project link - [here](https://devpost.com/software/block-shop)
 
 ### Inspiration
-To make the reselling of things among peers thereby eliminating charges that the merchants charge and also verifying the products with the help of nearby peers of the seller
+To make the reselling of things among peers thereby eliminating charges charged by middle merchants and also verifying the products with the help of nearby peers of the seller
 
 ### What it does
 Consider person A is seller and B is buyer.
